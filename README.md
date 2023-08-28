@@ -10,12 +10,27 @@ As a skilled web developer, I have showcased my expertise in crafting robust web
 
 ## 🛠️ Tech Stack
 My technical toolkit includes:
-- Programming Languages: PHP, JavaScript, SQL, HTML5, CSS3
-- Backend Frameworks: Laravel, FuelPHP, CodeIgniter, Node.js
-- Front-End Technologies: Bootstrap5, React, Vue, JQuery
-- Databases: MySQL, MongoDB
-- API Development: RESTful, GraphQL
-- Version Control: Bitbucket, Git, GitHub
+- Programming Languages: ![PHP](https://github.com/path-to-your-php-icon)
+  ![JavaScript](https://github.com/path-to-your-js-icon)
+  ![SQL](https://github.com/path-to-your-sql-icon)
+  ![HTML5](https://github.com/path-to-your-html5-icon)
+  ![CSS3](https://github.com/path-to-your-css3-icon)
+- Backend Frameworks: ![Laravel](https://github.com/path-to-your-laravel-icon)
+  ![FuelPHP](https://github.com/path-to-your-fuelphp-icon)
+  ![CodeIgniter](https://github.com/path-to-your-codeigniter-icon)
+  ![Node.js](https://github.com/path-to-your-nodejs-icon)
+- Front-End Technologies: ![Bootstrap5](https://github.com/path-to-your-bootstrap-icon)
+  ![React](https://github.com/path-to-your-react-icon)
+  ![Vue](https://github.com/path-to-your-vue-icon)
+  ![JQuery](https://github.com/path-to-your-jquery-icon)
+- Databases: ![MySQL](https://github.com/path-to-your-mysql-icon)
+  ![MongoDB](https://github.com/path-to-your-mongodb-icon)
+- API Development: ![RESTful](https://github.com/path-to-your-restful-icon)
+  ![GraphQL](https://github.com/path-to-your-graphql-icon)
+- Version Control: ![Bitbucket](https://github.com/path-to-your-bitbucket-icon)
+  ![Git](https://github.com/path-to-your-git-icon)
+  ![GitHub](https://github.com/path-to-your-github-icon)
+
 
 ## 💡 Continuous Learning
 I'm committed to staying up-to-date with the latest web technologies and industry best practices. This ensures that the solutions I deliver are in line with the ever-evolving tech landscape.
