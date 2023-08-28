@@ -9,7 +9,7 @@ Experienced Web Developer with a strong proficiency in PHP and JavaScript, speci
 
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,nodejs,react,vue,jquery,bootstrap,tailwind,mysql,mongodb,graphql,git,github,cloudflare)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,nodejs,react,vue,jquery,bootstrap,tailwind,mysql,mongodb,graphql,git,github,cloudflare)
 
 ### 📧 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerico-tilacas-57896218b)&nbsp;
