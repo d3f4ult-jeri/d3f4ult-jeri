@@ -7,9 +7,8 @@ Backend Developer at [Flex Catering Software](https://www.flexcateringhq.com/).
 ### 💻 Expertise
 Experienced Web Developer with a strong proficiency in PHP and JavaScript, specializing in building dynamic and responsive web applications. Skilled in utilizing popular frameworks such as Laravel, Vue.js, React, and Node.js to create seamless user experiences. Adept at designing and implementing APIs and working with databases to ensure efficient data management and integration.
 
-
 ### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,nodejs,react,vue,jquery,bootstrap,tailwind,mysql,mongodb,graphql,git,github,cloudflare)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,nodejs,react,vue,jquery,bootstrap,tailwind,mysql,mongodb,graphql,git,github,cloudflare)]
 
 ### 📧 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerico-tilacas-57896218b)&nbsp;
