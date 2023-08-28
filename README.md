@@ -1,7 +1,6 @@
 ### Hi there 👋
+## 👨‍💻 Web Developer | Laravel Enthusiast | Problem Solver
 Welcome to my GitHub profile! I'm a passionate web developer with a focus on backend development and a knack for problem-solving.
-
-# 👨‍💻 Web Developer | Laravel Enthusiast | Problem Solver
 
 ## 📧 Contact
 Feel free to reach out to me via email: jerichotilacas@gmail.com
