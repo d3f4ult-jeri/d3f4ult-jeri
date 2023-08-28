@@ -5,7 +5,8 @@ Backend Developer at [Flex Catering Software](https://www.flexcateringhq.com/).
 - 🚀 I like to build stuff and trying out new technologies
 
 ### 💻 Expertise
-As a skilled web developer, I have showcased my expertise in crafting robust web applications utilizing technologies such as Laravel, Vue, React, and Node.js. My proficiency specifically with PHP has empowered me to construct potent back-end applications. This involves implementing RESTful APIs, working extensively with databases, guaranteeing secure and efficient server-side logic, and ensuring optimal functionality. Moreover, my adeptness in JavaScript has enabled me to create interactive and dynamic user interfaces. I achieve this by developing reusable components and effectively managing both state and data flow.
+Experienced Web Developer with a strong proficiency in PHP and JavaScript, specializing in building dynamic and responsive web applications. Skilled in utilizing popular frameworks such as Laravel, Vue.js, React, and Node.js to create seamless user experiences. Adept at designing and implementing APIs and working with databases to ensure efficient data management and integration.
+
 
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,nodejs,react,vue,jquery,bootstrap,tailwind,mysql,mongodb,graphql,git,github,cloudflare)](https://skillicons.dev)
