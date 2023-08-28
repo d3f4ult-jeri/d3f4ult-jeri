@@ -13,6 +13,8 @@ As a skilled web developer, I have showcased my expertise in crafting robust web
 
 
 ### 📧 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jerico-tilacas-57896218b)
-[![Skype](https://img.shields.io/badge/Skype-Chat-blue?logo=skype)](skype:https://join.skype.com/invite/dI21hhr3ZaQC)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=email)](mailto:jerichotilacas.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerico-tilacas-57896218b)&nbsp;
+[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/dI21hhr3ZaQC)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerichotilacas@gmail.com)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ecotilacas/)
+
