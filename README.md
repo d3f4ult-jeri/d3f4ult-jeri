@@ -11,7 +11,7 @@ Experienced Web Developer with a strong proficiency in PHP and JavaScript, speci
 ![My Skills](https://skillicons.dev/icons?i=laravel,vue,mysql,js,jquery,php,html,css,bootstrap,sass,git)
 
 ### 🌱 Currently Learning
-![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,mongodb,graphql)
+![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,mongodb,tailwind,graphql)
 
 <br/>
 
