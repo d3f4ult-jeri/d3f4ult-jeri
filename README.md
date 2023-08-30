@@ -10,7 +10,7 @@ Backend Developer at [Flex Catering Software](https://www.flexcateringhq.com/). 
 - Experienced in API development, database management, and integration.
 
 ### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=laravel,vue,mysql,js,jquery,php,html,css,bootstrap,sass,git)
+![My Skills](https://skillicons.dev/icons?i=laravel,vue,mysql,js,jquery,php,html,css,bootstrap,sass,gulp,git)
 
 <!---
 ### 🌱 Currently Learning
