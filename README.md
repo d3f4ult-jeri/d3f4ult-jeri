@@ -2,12 +2,12 @@
 I'm **Jerico Tilacas**, a web developer based in **Cebu, Philippines**.<br>
 Backend Developer at [Flex Catering Software](https://www.flexcateringhq.com/). <br><br>
 ⚡ &nbsp;Laravel Enthusiast <br>
-🚀  &nbsp;I like to build stuff and trying out new technologies
+🚀 &nbsp;I like to build stuff and trying out new technologies.
 
 ### 💻 Expertise
 - Specializes in developing solutions with PHP and JavaScript.
-- Proficient in creating dynamic web applications using Laravel and Vue.js.
-- Experienced in API development, database management, and integration.
+- Proficient in creating dynamic web apps using Laravel and Vue.js.
+- Experienced in API Development, Database Management, and Integration.
 
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=laravel,vue,mysql,js,jquery,php,html,css,bootstrap,sass,gulp,git)
