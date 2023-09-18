@@ -1,25 +1,43 @@
-### Hi there 👋
+## Hi there 👋
 I'm **Jerico Tilacas**, a web developer based in **Cebu, Philippines**.<br>
 Backend Developer at [Flex Catering Software](https://www.flexcateringhq.com/). <br><br>
+![Alt Text](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+
 ⚡ &nbsp;Laravel Enthusiast <br>
 🚀 &nbsp;I like to build stuff and trying out new technologies.
 
-### 💻 Expertise
-- Specializes in developing solutions with PHP and JavaScript.
-- Proficient in creating dynamic web apps using Laravel and React.
-- Experienced in API Development, Database Management and Object Oriented Programming.
+<br>
+<!--
+### 💻 Proficient
+- Specializes in developing solutions using PHP and JavaScript.
+- Actively expanding expertise in building dynamic web applications with Laravel and React.
+- Currently honing skills in API development, while showcasing competence in Database Management and a solid grasp of Object-Oriented Programming principles.
+-->
 
-### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=laravel,react,vue,mysql,js,jquery,php,html,css,bootstrap,sass,gulp,git,docker)
+## 🛠️ Tech Stack
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br/>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+
+
+<!--![My Skills](https://skillicons.dev/icons?i=laravel,react,mysql,bootstrap,jquery,git,docker) -->
 
 <!---
 ### 🌱 Currently Learning
 ![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,mongodb,tailwind,graphql)
 -->
+<br>
 
-### 📧 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerico-tilacas-57896218b)&nbsp;
+## 📧 Connect with me
+[jericotilacas@gmail.com](mailto:jericotilacas@gmail.com)
+<!--
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerico-tilacas-57896218b)&nbsp;
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/dI21hhr3ZaQC)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jericotilacas@gmail.com)&nbsp;
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ecotilacas/) -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jericotilacas@gmail.com)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ecotilacas/) -->
 
