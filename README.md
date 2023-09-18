@@ -16,8 +16,7 @@ I'm **Jerico Tilacas**, a backend web developer at [Flex Catering Software](http
 ## 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br/>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -29,7 +28,6 @@ I'm **Jerico Tilacas**, a backend web developer at [Flex Catering Software](http
 ### 🌱 Currently Learning
 ![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,mongodb,tailwind,graphql)
 -->
-<br>
 
 ## 📧 Connect with me
 [jericotilacas@gmail.com](mailto:jericotilacas@gmail.com)
