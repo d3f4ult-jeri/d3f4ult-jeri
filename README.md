@@ -1,10 +1,10 @@
 ## Hi there 👋 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtcGo5Zjd2ejYzNG9keXJ2MTZ1ZG42M2FmdmNjcGh1dTFsOGZiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif)
 
-I'm **Jerico Tilacas**, a backend web developer at [Flex Catering Software](https://www.flexcateringhq.com/). <br><br>
-⚡ &nbsp;Laravel Enthusiast <br>
-🚀 &nbsp;I like to build stuff and trying out new technologies <br>
-🌱 &nbsp;Specializes in developing solutions using PHP and JavaScript.
+I'm **Jerico Tilacas**, a backend web developer at [Flex Catering Software](https://www.flexcateringhq.com/).
+- ⚡ &nbsp;Laravel Enthusiast
+- 🚀 &nbsp;I like to build stuff and trying out new technologies
+- 🌱 &nbsp;Continuously honing skills through learning and practice
 
 <!--
 ### 💻 Proficient
