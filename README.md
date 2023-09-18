@@ -1,12 +1,11 @@
-## Hi there 👋
-I'm **Jerico Tilacas**, a web developer based in **Cebu, Philippines**.<br>
-Backend Developer at [Flex Catering Software](https://www.flexcateringhq.com/). <br><br>
-![Alt Text](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+## Hi there 👋 
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtcGo5Zjd2ejYzNG9keXJ2MTZ1ZG42M2FmdmNjcGh1dTFsOGZiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif)
 
+I'm **Jerico Tilacas**, a backend web developer at [Flex Catering Software](https://www.flexcateringhq.com/). <br><br>
 ⚡ &nbsp;Laravel Enthusiast <br>
-🚀 &nbsp;I like to build stuff and trying out new technologies.
+🚀 &nbsp;I like to build stuff and trying out new technologies <br>
+🌱 &nbsp;Specializes in developing solutions using PHP and JavaScript.
 
-<br>
 <!--
 ### 💻 Proficient
 - Specializes in developing solutions using PHP and JavaScript.
@@ -23,7 +22,6 @@ Backend Developer at [Flex Catering Software](https://www.flexcateringhq.com/). 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-
 
 <!--![My Skills](https://skillicons.dev/icons?i=laravel,react,mysql,bootstrap,jquery,git,docker) -->
 
