@@ -4,7 +4,7 @@
 I'm **Jerico Tilacas**, a backend web developer at [Flex Catering Software](https://www.flexcateringhq.com/).
 - ⚡ &nbsp;Laravel Enthusiast
 - 🚀 &nbsp;I like to build stuff and trying out new technologies
-- 🌱 &nbsp;Continuously honing skills through learning and practice
+<!-- - 🌱 &nbsp;Continuously honing skills through learning and practice -->
 
 <!--
 ### 💻 Proficient
