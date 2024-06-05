@@ -2,7 +2,7 @@
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtcGo5Zjd2ejYzNG9keXJ2MTZ1ZG42M2FmdmNjcGh1dTFsOGZiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif)
 
 I'm **Jeri**, a backend web developer at [Outsource Fitch](https://www.outsourcefitch.com/).
-- ⚡ &nbsp;Laravel Enthusiast
+- ⚡ &nbsp;Laravel | React Enthusiast
 - 🚀 &nbsp;I like to build stuff and trying out new technologies
 <!-- - 🌱 &nbsp;Continuously honing skills through learning and practice -->
 
