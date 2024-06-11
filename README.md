@@ -1,5 +1,5 @@
 ## Hi there 👋 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtcGo5Zjd2ejYzNG9keXJ2MTZ1ZG42M2FmdmNjcGh1dTFsOGZiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif)
+![Alt Text](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 I'm **Jeri**, a backend web developer at [Outsource Fitch](https://www.outsourcefitch.com/).
 - ⚡ &nbsp;Laravel | React Enthusiast
@@ -14,8 +14,8 @@ I'm **Jeri**, a backend web developer at [Outsource Fitch](https://www.outsource
 -->
 
 ## 🛠️ Tech Stack
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+<!-- [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) -->
+<!-- [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) -->
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
