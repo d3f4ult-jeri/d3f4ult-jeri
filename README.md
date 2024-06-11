@@ -1,5 +1,6 @@
 ## Hi there 👋 
-![Alt Text](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+<img src="giphy.gif" alt="description" height="400">
+
 
 I'm **Jeri**, a backend web developer at [Outsource Fitch](https://www.outsourcefitch.com/).
 - ⚡ &nbsp;Laravel | React Enthusiast
