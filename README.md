@@ -1,10 +1,10 @@
 ## Hi there 👋 
 <img src="giphy.gif" alt="description" height="400">
 
-I'm **Jeri**, a backend web developer at [Flex Software | CRM & Online Ordering](https://www.flexcateringau.com/).
+I'm **Jeri**, a backend web developer.
 - ⚡ &nbsp;Laravel | React Enthusiast
 - 🚀 &nbsp;I like to build stuff and trying out new technologies
-<!-- - 🌱 &nbsp;Continuously honing skills through learning and practice -->
+- 🌱 &nbsp;Never stop learning
 
 <!--
 ### 💻 Proficient
@@ -14,6 +14,8 @@ I'm **Jeri**, a backend web developer at [Flex Software | CRM & Online Ordering]
 -->
 
 ## 🛠️ Tech Stack
+
+<!--
 [![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![PHP](https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/laravel-black.svg?style=for-the-badge&logo=laravel)](https://laravel.com/)
@@ -29,19 +31,16 @@ I'm **Jeri**, a backend web developer at [Flex Software | CRM & Online Ordering]
 [![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git)](https://www.git-scm.com/)
 [![cPanel](https://img.shields.io/badge/cPanel-black.svg?style=for-the-badge&logo=cPanel)](https://cpanel.net/)
 
-
-<!--![My Skills](https://skillicons.dev/icons?i=laravel,react,mysql,bootstrap,jquery,git,docker) -->
-
-<!---
-### 🌱 Currently Learning
-![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,mongodb,tailwind,graphql)
 -->
+<!--![My Skills](https://skillicons.dev/icons?i=laravel,react,mysql,bootstrap,jquery,git,docker,vscode) -->
+
+![My Skills](https://skillicons.dev/icons?i=js,laravel,react,nextjs,redux,vite,tailwind,bootstrap,mysql,php,postman,docker,git,vscode)
 
 ## 📧 Connect with me
-[jericotilacas@gmail.com](mailto:jericotilacas@gmail.com)
 <!--
+[jericotilacas@gmail.com](mailto:jericotilacas@gmail.com)
+-->
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerico-tilacas-57896218b)&nbsp;
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/dI21hhr3ZaQC)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jericotilacas@gmail.com)&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ecotilacas/) -->
-
