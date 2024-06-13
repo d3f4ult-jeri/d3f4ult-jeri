@@ -1,8 +1,7 @@
 ## Hi there 👋 
 <img src="giphy.gif" alt="description" height="400">
 
-
-I'm **Jeri**, a backend web developer at [Outsource Fitch](https://www.outsourcefitch.com/).
+I'm **Jeri**, a backend web developer at [Flex Software | CRM & Online Ordering](https://www.flexcateringau.com/).
 - ⚡ &nbsp;Laravel | React Enthusiast
 - 🚀 &nbsp;I like to build stuff and trying out new technologies
 <!-- - 🌱 &nbsp;Continuously honing skills through learning and practice -->
