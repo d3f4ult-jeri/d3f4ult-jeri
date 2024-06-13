@@ -30,11 +30,28 @@ I'm **Jeri**, a backend web developer.
 [![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git)](https://www.git-scm.com/)
 [![cPanel](https://img.shields.io/badge/cPanel-black.svg?style=for-the-badge&logo=cPanel)](https://cpanel.net/)
-
 -->
-<!--![My Skills](https://skillicons.dev/icons?i=laravel,react,mysql,bootstrap,jquery,git,docker,vscode) -->
 
-![My Skills](https://skillicons.dev/icons?i=js,laravel,react,nextjs,redux,vite,tailwind,bootstrap,mysql,php,postman,docker,git,vscode)
+<!--
+![My Skills](https://skillicons.dev/icons?i=laravel,react,mysql,bootstrap,jquery,git,docker,vscode)
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/product/what-is-postman/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://www.git-scm.com/)
+
 
 ## 📧 Connect with me
 <!--
