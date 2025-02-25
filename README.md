@@ -1,9 +1,9 @@
-## Hi there 👋 
+<!--## Hi there 👋 
 <!--<img src="giphy.gif" alt="description" height="400">-->
 <img src="luffy-gear-5-icegif-5.gif" alt="description" height="250">
 
 
-I'm **Jeri**, a backend web developer.
+**Jeri**, a backend web developer.
 - ⚡ &nbsp;Specializes in **PHP** and **JavaScript**
 - 🚀 &nbsp;Expanding expertise in dynamic web apps
 - 🌱 &nbsp;Always learning, always improving
