@@ -2,10 +2,15 @@
 <img src="giphy.gif" alt="description" height="400">
 
 I'm **Jeri**, a backend web developer.
-- ⚡ &nbsp;PHP | JS Enthusiast
-- 🚀 &nbsp;Build stuff
-- 🌱 &nbsp;Keep grinding
+- ⚡ &nbsp;Specializes in **PHP** and **JavaScript**
+- 🚀 &nbsp;Expanding expertise in dynamic web apps
+- 🌱 &nbsp;Always learning, always improving
 
+<!--
+- ⚡ &nbsp;**PHP** | **JS** Enthusiast
+- 🚀 &nbsp;Building cool and functional web apps
+- 🌱 &nbsp;Always learning, always improving
+-->
 <!--
 ### 💻 Proficient
 - Specializes in developing solutions using PHP and JavaScript.
@@ -34,8 +39,14 @@ I'm **Jeri**, a backend web developer.
 
 <!--
 ![My Skills](https://skillicons.dev/icons?i=laravel,react,mysql,bootstrap,jquery,git,docker,vscode)
--->
 
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-->
 
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
@@ -47,7 +58,7 @@ I'm **Jeri**, a backend web developer.
 [![My Skills](https://skillicons.dev/icons?i=git)](https://www.git-scm.com/)
 
 
-## 📧 Connect with me
+## 📧 Connect
 <!--
 [jericotilacas@gmail.com](mailto:jericotilacas@gmail.com)
 -->
