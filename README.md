@@ -2,9 +2,9 @@
 <img src="giphy.gif" alt="description" height="400">
 
 I'm **Jeri**, a backend web developer.
-- ⚡ &nbsp;Laravel | React Enthusiast
-- 🚀 &nbsp;I like to build stuff and trying out new technologies
-- 🌱 &nbsp;Never stop learning
+- ⚡ &nbsp;PHP | JS Enthusiast
+- 🚀 &nbsp;Build stuff
+- 🌱 &nbsp;Keep grinding
 
 <!--
 ### 💻 Proficient
@@ -36,17 +36,12 @@ I'm **Jeri**, a backend web developer.
 ![My Skills](https://skillicons.dev/icons?i=laravel,react,mysql,bootstrap,jquery,git,docker,vscode)
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![My Skills](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/product/what-is-postman/)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://www.git-scm.com/)
